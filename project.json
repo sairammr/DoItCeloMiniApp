@@ -1,0 +1,97 @@
+[
+  {
+    "module": "User Interface",
+    "submodules": [
+      {
+        "title": "Task List View",
+        "description": "A clean and organized display of all tasks, categorized by day. Users can easily navigate through their tasks, view details, and check off completed items.",
+        "selected": true
+      },
+      {
+        "title": "Task Creation Form",
+        "description": "An intuitive form that allows users to add new tasks with fields for title, description, due date, and priority level. Includes validation to ensure all necessary information is provided.",
+        "selected": true
+      },
+      {
+        "title": "Task Editing Interface",
+        "description": "A user-friendly interface for updating existing tasks. Users can modify task details, change due dates, and adjust priority levels with ease.",
+        "selected": true
+      },
+      {
+        "title": "Responsive Design",
+        "description": "Ensures the app is accessible and functional across various devices, including desktops, tablets, and smartphones, providing a seamless user experience.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Backend Services",
+    "submodules": [
+      {
+        "title": "Task Management API",
+        "description": "RESTful API endpoints that handle all task-related operations, including creating, updating, deleting, and retrieving tasks. Ensures data integrity and security.",
+        "selected": true
+      },
+      {
+        "title": "User Authentication",
+        "description": "Secure user authentication system that allows users to register, log in, and manage their accounts. Implements token-based authentication for secure session management.",
+        "selected": true
+      },
+      {
+        "title": "Data Storage",
+        "description": "Utilizes a robust database to store user tasks, ensuring quick retrieval and efficient management of task data. Supports data backup and recovery mechanisms.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Task Management Features",
+    "submodules": [
+      {
+        "title": "Task Categorization",
+        "description": "Allows users to categorize tasks by tags or labels, making it easier to filter and manage tasks based on specific criteria or projects.",
+        "selected": true
+      },
+      {
+        "title": "Due Date Reminders",
+        "description": "Sends notifications or reminders to users about upcoming due dates for tasks, helping them stay on track and manage their time effectively.",
+        "selected": true
+      },
+      {
+        "title": "Task Prioritization",
+        "description": "Enables users to assign priority levels to tasks (e.g., high, medium, low), allowing them to focus on what matters most and manage their workload efficiently.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "User Experience Enhancements",
+    "submodules": [
+      {
+        "title": "Dark Mode",
+        "description": "Provides a dark mode option for users who prefer a darker interface, reducing eye strain and enhancing usability in low-light environments.",
+        "selected": true
+      },
+      {
+        "title": "Search Functionality",
+        "description": "A powerful search feature that allows users to quickly find specific tasks by keywords, due dates, or categories, improving overall efficiency.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Analytics and Reporting",
+    "submodules": [
+      {
+        "title": "Task Completion Statistics",
+        "description": "Provides users with insights into their task completion rates, helping them understand their productivity patterns and areas for improvement.",
+        "selected": true
+      },
+      {
+        "title": "Daily Summary Reports",
+        "description": "Generates daily summaries of tasks completed, tasks pending, and upcoming deadlines, allowing users to plan their day effectively.",
+        "selected": true
+      }
+    ]
+  }
+]
